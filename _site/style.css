@@ -1,0 +1,20 @@
+:root {
+    --background-color: #232530;
+    --foreground-color: #FAC29A;
+    --highlight-color: #E95678;
+}
+
+body {
+    text-align: center;
+    font-family: "Courier Prime", monospace;
+    background-color: var(--background-color);
+    color: var(--foreground-color);
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: var(--highlight-color)
+}
