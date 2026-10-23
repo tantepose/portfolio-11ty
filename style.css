@@ -7,8 +7,15 @@
 body {
     text-align: center;
     font-family: "Courier Prime", monospace;
+
     background-color: var(--background-color);
     color: var(--foreground-color);
+
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 1rem;
+
+    list-style-position: inside;
 }
 
 img {
@@ -16,5 +23,19 @@ img {
 }
 
 a {
+    color: var(--highlight-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--foreground-color)
+}
+
+h3 {
     color: var(--highlight-color)
+}
+
+header {
+    padding-top: 20px;
 }
