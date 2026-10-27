@@ -5,7 +5,7 @@ title: Ole Petter Baugerød Stokkes opptredner i andre medier
 
 # opptredner i media
 
-Jeg liker å både skrive leserinnlegg og bli intervjua. Her er noen eksempler:
+Jeg liker å både skrive leserinnlegg og bli intervjua. Her er noen ganger jeg har vært i andres medier:
 
 ## Morgenbladet:
 - [Tror ikke Mastadon tar over for Twitter](https://www.morgenbladet.no/kultur/tror-ikke-mastodon-tar-over-for-twitter/9401328)

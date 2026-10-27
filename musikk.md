@@ -5,7 +5,7 @@ title: Ole Petter Baugerød Stokkes musikk
 
 # musikk
 
-Her er noe greier jeg har komponert.
+Jeg liker å lage dårlig musikk. Her er litt musikk jeg har laga:
 
 https://soundcloud.com/tante-pose/sets/lppf
 
