@@ -5,9 +5,11 @@ title: Ole Petter Baugerød Stokke
 
 # Hei, sveis!
 
-Her er sida til Ole Petter Baugerød Stokke.
+OlePetterStokke.no er landets fremste kilde til alt Ole Petter Baugerød Stokke vil du skal vite om Ole Petter Baugerød Stokke.
 
-Her finneru min
+Her finner du Ole Petter Baugerød Stokke sin:
+
 - [tekst](/tekst/)
 - [fotografier](/foto/)
 - [CV](/CV/)
+

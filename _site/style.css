@@ -11,7 +11,7 @@ body {
     background-color: var(--background-color);
     color: var(--foreground-color);
 
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 1rem;
 
@@ -38,4 +38,21 @@ h3 {
 
 header {
     padding-top: 20px;
+}
+
+.eleventy-plugin-embed-soundcloud, .eleventy-plugin-youtube-embed, img {
+    margin-bottom: 20px;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--foreground-color);
+    border-radius: 5px;
 }
