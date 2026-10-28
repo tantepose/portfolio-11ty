@@ -5,17 +5,17 @@ title: Ole Petter Baugerød Stokke
 
 # Hei, sveis!
 
-OlePetterStokke.no er landets fremste kilde til alt Ole Petter Baugerød Stokke vil du skal vite om Ole Petter Baugerød Stokke.
+OlePetterStokke.no er landets fremste kilde til alt jeg vil du skal vite om journalist og kode24-skaper Ole Petter Baugerød Stokke.
 
-Her finner du Ole Petter Baugerød Stokke sin:
+## Her finner du Ole Petter Baugerød Stokke sin:
 
-# [tekst](/tekst/)
-# [foto](/foto/)
-# [video](/video/)
-# [opptredner](/opptredner/)
-# [kode](/kode/)
-# [musikk](/musikk/)
-# [CV](/CV/)
+# [\tekst](/tekst/)
+# [\foto](/foto/)
+# [\video](/video/)
+# [\opptredner](/opptredner/)
+# [\kode](/kode/)
+# [\musikk](/musikk/)
+# [\CV](/CV/)
 
 Og sånn ser ett av prosjektene mine ut når proffe folk filmer det:
 

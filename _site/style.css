@@ -27,6 +27,15 @@ header {
     background-color: var(--background-color);
 }
 
+ul {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+li::marker {
+    margin-right: 0;
+}
+
 img {
     max-width: 100%;
     border-radius: 20px;
@@ -40,6 +49,14 @@ a {
 a:hover {
     text-decoration: underline;
     color: var(--foreground-color)
+}
+
+p {
+    margin-top: 0;
+}
+
+h2, h3, h4 {
+    margin-bottom: 0;
 }
 
 h3 {

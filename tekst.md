@@ -5,7 +5,7 @@ title: Ole Petter Baugerød Stokkes tekst
 
 # tekst
 
-Jeg liker å skrive. Her er noe av det jeg har skrevet i det siste: 
+Jeg liker å skrive. Her er noe tekst jeg har skrevet i det siste: 
 
 ## artikler
 - [1 av 2 norske utviklere genererer det meste eller alt med KI](https://www.kode24.no/artikkel/1-av-2-norske-utviklere-genererer-det-meste-eller-alt-med-ki/271449)
