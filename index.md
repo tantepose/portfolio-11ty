@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=lE7ia6pdJbU
 
 https://www.youtube.com/watch?v=q1iU4s0PhI0
 
-_(sist oppdatert i november 2026)_
+_(sist oppdatert i oktober 2026)_
