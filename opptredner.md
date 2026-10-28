@@ -24,6 +24,7 @@ Jeg liker å både skrive leserinnlegg og bli intervjua. Her er noen ganger jeg 
 
 ## Andre medier: 
 - [Aftenposten: Her kan du spille utendørs bordtennis](https://www.aftenposten.no/oslo/byliv/i/mrA9qg/oslo-guide-her-kan-du-spille-utendoers-bordtennis)
+- [Amagasinet: KI eller AI. Flisespikkeri eller kamp for Norge?](https://www.aftenposten.no/amagasinet/i/4o2AaG/det-staar-uavgjort-mellom-ki-og-ai)
 - [NRK: Nytt KI-verktøy sjokkerer: - Nå er det i ferd med å tilte helt](https://www.nrk.no/norge/nytt-ki-verktoy-sjokkerer_-_-na-er-det-i-ferd-med-a-tilte-helt-1.16766458)
 - [God Morgen, Norge: Godtok 14 falske venneforespøsler, druknet i porno](https://www.tv2.no/video/underholdning/godtok-14-falske-venneforesporsler-druknet-i-por/20180481)
 - [PD: Gutta har laget påskekrim om hjembyen: "Rådhuset er hacket"](https://www.pd.no/gutta-har-laget-paskekrim-om-hjembyen-radhuset-er-hacket/s/5-40-328984)

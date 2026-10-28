@@ -18,8 +18,18 @@ body {
     list-style-position: inside;
 }
 
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    background-color: var(--background-color);
+}
+
 img {
     max-width: 100%;
+    border-radius: 20px;
 }
 
 a {
@@ -34,10 +44,6 @@ a:hover {
 
 h3 {
     color: var(--highlight-color)
-}
-
-header {
-    padding-top: 20px;
 }
 
 .eleventy-plugin-embed-soundcloud, .eleventy-plugin-youtube-embed, img {

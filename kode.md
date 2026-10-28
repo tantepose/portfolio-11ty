@@ -5,7 +5,7 @@ title: Ole Petter Baugerød Stokkes kode
 
 # kode
 
-Jeg liker å programmere, uten KI. Her er noen ting jeg har laga:
+Jeg liker å programmere, uten KI. Her er noen ting jeg har programmert:
 
 ## [2 cars, 1 road](https://filer.olepetterstokke.no/2cars1road/)
 Lokalt tospiller Unity-spill om å kjøre bil uten å kræsje.
