@@ -24,7 +24,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 99;
-    backdrop-filter: blur(7px);
+    background-color: var(--background-color);
 }
 
 ul {
