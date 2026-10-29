@@ -44,10 +44,11 @@ img {
 a {
     color: var(--highlight-color);
     text-decoration: none;
+    transition:.2s;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration:underline wavy var(--highlight-color);
     color: var(--foreground-color)
 }
 
